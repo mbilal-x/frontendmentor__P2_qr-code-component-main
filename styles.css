@@ -15,17 +15,13 @@ body{
 
 
 .bodyContent--centered{
-    display: flex;
+    display: grid;
     align-items: center;
-    justify-content: center;
-    
+    justify-content: center;   
 }
 
 .card{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    height: 470px;
     width: 300px;
     background-color: white;
     padding: 15px;
