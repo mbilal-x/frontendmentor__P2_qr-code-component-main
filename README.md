@@ -47,6 +47,8 @@ That grid is very confusing. I will just use bootstrap whenever i needed grid.(X
 
 I do feel bad about not knowing how to use grid. I might look into it in the future.
 
+-> which I did, and now I can say I have a good sense oh how and where to use display grid property.
+
 ## Author
 
 - Website - [Muhammad Bilal](mohammadbilal.me)
